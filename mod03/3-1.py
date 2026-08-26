@@ -1,2 +1,2 @@
 nimi=input("HEI! KUKA OLET: \n")
-print("Terve, " + nimi + "!")
+print(f"Terve, {nimi}!")
