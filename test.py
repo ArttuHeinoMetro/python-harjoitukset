@@ -1,6 +1,11 @@
-luku = int(input("Kerro luku:\n"))
+import random
 
-if 10 <= luku <= 20:
-    print(f"Lukusi on {luku} joka on 10 ja 20 välillä")
-else:
-    print(f"Lukusi on {luku} joka on välin ulkopuolella")
+while True:
+    noppa1 = random.randint(1,3)
+    noppa2 = random.randint(1,3)
+    if noppa1 == 3:
+        if noppa2 == 3:
+            print("Nyt tuli 3 ja 3, lopetetaan")
+            break
+    else:
+        print(f"Nyt tuli {noppa1} ja {noppa2}, jatketaan")
