@@ -6,3 +6,5 @@ Tein moduuli 1 kaikki tehtävät
 Tein moduuli 3 kaikki tehtävät
 ## Moduuli 4
 Tein moduuli 4 kaikki tehtävät
+## Moduuli 5
+Tein moduuli 5 tehtävät 1-5, tehtävä 6 aivan liian vaikea
