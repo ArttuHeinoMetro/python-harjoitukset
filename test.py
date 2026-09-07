@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-luku = 20
+def nimeni(nimi, kerta):
+    luku = 0
+    for kerta in range(kerta):
+        luku += 1
+        print(f"{nimi} {luku}. kerta")
+        
 
-while luku > 0:
-    print(luku)
-    luku -=2
-=======
->>>>>>> a1fd34bc21256772f4c68d3b1871fd03c40cb8ef
+
+nimeni("James", 10)
