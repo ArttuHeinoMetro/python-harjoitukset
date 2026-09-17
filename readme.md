@@ -12,3 +12,5 @@ Tein moduuli 5 tehtävät 1-5, tehtävä 6 aivan liian vaikea
 Tein moduuli 6 kaikki tehtävät
 ## Moduuli 7
 Tein moduuli 7 kaikki tehtävät
+## Moduuli 8
+Tein moduuli 8 kaikki tehtävät
