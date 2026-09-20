@@ -14,3 +14,7 @@ Tein moduuli 6 kaikki tehtävät
 Tein moduuli 7 kaikki tehtävät
 ## Moduuli 8
 Tein moduuli 8 kaikki tehtävät
+## Moduuli 9
+Tein moduuli 9 kaikki tehtävät (hieman chatgpt apua käyttäen)
+## Moduuli 10
+Tein moduuli 10 tehtävät 1-3 (hieman chatgpt apua käyttäen)
