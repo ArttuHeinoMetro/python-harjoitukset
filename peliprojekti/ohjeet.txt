@@ -1,0 +1,6 @@
+OHJEET
+
+Kirjoita komentoja pelin ohjeiden mukaisesti.
+Voit kalastaa eri paikoissa ja valita erilaisia kalastusvälineitä.
+
+Muista pitää kalastuspaikat siistinä!

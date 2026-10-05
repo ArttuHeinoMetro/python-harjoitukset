@@ -1,0 +1,5 @@
+Tervetloa Arskan kalastuspeliin!
+
+Olet saapunut kalastusseikkailuun.
+Matkasi aikana voit kalastaa, löytää roskia ja tehdä erilaisia valintoja.
+Valintasi vaikuttavat pelin kulkuun.
