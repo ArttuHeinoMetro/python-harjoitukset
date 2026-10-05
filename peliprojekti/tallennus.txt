@@ -1,0 +1,5 @@
+nimi=Arttu
+ika=23
+luontopisteet=3
+kalapisteet=1509
+kalojen_maara=1
