@@ -40,9 +40,9 @@ class Talo:
 # Pääohjelma
 talo = Talo(1, 10, 3)
 
-talo.aja_hissia(1, 5)
-talo.aja_hissia(2, 8)
-talo.aja_hissia(3, 3)
+#talo.aja_hissia(1, 5)
+#talo.aja_hissia(2, 8)
+#talo.aja_hissia(3, 3)
 
 # Palohälytys
 talo.palohälytys()
